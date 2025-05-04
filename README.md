@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mobile phone is best.
 - 😄 Pronouns: her/she.
 - ⚡ Fun fact: I don't get sea sick, but I do get car sick.
--->[![Marina Gerber [SSW]'s github stats](https://github-readme-stats.vercel.app/api?username=marinagerber&amp;theme=dark)](https://github.com/marinagerber/github-readme-stats)
+-->
+
+[![Marina Gerber's github stats](https://github-readme-stats.vercel.app/api?username=marinagerber&amp;theme=dark)](https://github.com/marinagerber/github-readme-stats)
